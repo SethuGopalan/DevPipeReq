@@ -26,3 +26,5 @@ application.layout=dbc.Container(
     ]
 )
 
+if __name__=="__main__":
+    application.run()
