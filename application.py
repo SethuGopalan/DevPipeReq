@@ -18,7 +18,8 @@ application.layout=dbc.Container(
                     html.Div([
 
                         html.H1("DevWebApplication"),
-                        html.P("Welcome to webapplication page")
+                        html.P("Welcome to webapplication page"),
+                        html.H2(" best web app")
                     ])
                 ])
             ]
